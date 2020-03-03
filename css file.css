@@ -1,0 +1,21 @@
+        div {
+            margin-right: 150px;
+            margin-left: 80px;
+        }
+
+        table,
+        td {
+            border: 1px solid #333;
+        }
+
+        .xiaomi {
+            color: red;
+        }
+
+        .galaxy {
+            color: blue;
+        }
+
+        .iphone {
+            color: green;
+        }

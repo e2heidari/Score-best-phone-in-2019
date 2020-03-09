@@ -25,6 +25,7 @@
             width: 200px;
             padding: 20px;
             border: solid black;
+            border-radius: 0 30px 0 30px;
         }
 
         .iS10 {
@@ -32,6 +33,7 @@
             width: 200px;
             padding: 20px;
             border: solid black;
+            border-radius: 0 30px 0 30px;
         }
 
         .i11 {
@@ -39,4 +41,5 @@
             width: 200px;
             padding: 20px;
             border: solid black;
+            border-radius: 0 30px 0 30px;
         }
